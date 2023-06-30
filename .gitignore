@@ -1,0 +1,32 @@
+# Dependency directories
+/node_modules
+/.pnp
+/dist
+.pnp.js
+
+# Production build directory
+/build
+
+# Development environment configuration
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache and testing directories
+/.cache
+/jest-*.js
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*~
+.project
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
